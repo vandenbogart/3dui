@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "threedui",
+    "run-wasm",
+]
